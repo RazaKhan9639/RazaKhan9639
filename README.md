@@ -70,7 +70,7 @@
 </div>
 <!-- End Footer -->
 
-## 🐍Magic Graph🐍
+## 🐍Github Magic Game🐍
 
 ![snake gif](https://github.com/RazaKhan9639/RazaKhan9639/blob/output/github-contribution-grid-snake.gif)
 
