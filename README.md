@@ -1,5 +1,9 @@
 ![logo](https://github.com/RazaKhan9639/RazaKhan9639/blob/main/Banner.png)
 <marquee><h1 align="center">Hi 👋, I'm Raza Mohayyuddin</h1></marquee>
+<p align="center">
+<a href="https://github.com/RazaKhan9639"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;React+Developer;MERN+STACK+Devloper&center=true&width=500&height=50"></a>
+	
+
 <h3 align="center">A passionate Computer Science Engineer from Pakistan</h3>
 
 
