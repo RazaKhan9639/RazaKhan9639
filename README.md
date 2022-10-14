@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science Engineer from Pakistan</h3>
 
 
-<a href='https://github.com/samadpls/Programing-Gifs'>
+<a href='https://github.com/RazaKhan9639'>
 <img align='right' src='https://programming-gifs.herokuapp.com/' widht=350 height=300 alt='samadpls/Programming-Gifs'></a>
 
 
