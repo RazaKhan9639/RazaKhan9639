@@ -4,7 +4,7 @@
 
 
 <a href='https://github.com/RazaKhan9639'>
-<img align='right' src='https://programming-gifs.herokuapp.com/' widht=350 height=300 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.herokuapp.com/' widht=350 height=300 alt='RazaKhan9639/Programming-Gifs'></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razakhan9639&label=Profile%20views&color=0e75b6&style=flat" alt="razakhan9639" /> </p>
