@@ -77,5 +77,8 @@
 
 ![snake gif](https://github.com/RazaKhan9639/RazaKhan9639/blob/output/github-contribution-grid-snake.gif)
 
-
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/RazaKhan9639/count.svg" />
+</p>
 
