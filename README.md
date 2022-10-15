@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on [Hacktoberfest](https://hacktoberfest.com/)
 
 - 💬 Ask me about **React , JavaScript, Python**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qt0OkEN-U5znFIhwJTkoWjE5NTP18YQO/view?usp=sharing](https://drive.google.com/file/d/1qt0OkEN-U5znFIhwJTkoWjE5NTP18YQO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17TeZ87YMLbNVrJtIFTAOml9fo6tzf86v/view?usp=sharing](https://drive.google.com/file/d/17TeZ87YMLbNVrJtIFTAOml9fo6tzf86v/view?usp=sharing)
 
 - 📫 How to reach me **raza.khan4336@gmail.com**
 
