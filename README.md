@@ -44,6 +44,8 @@
 [![@raza4336's Holopin board](https://holopin.me/raza4336)](https://holopin.io/@raza4336)
 
 
+	
+
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
@@ -73,13 +75,17 @@
     </a>
 </div>
 <!-- End Footer -->
-
+<!-- Magic Game -->
 ## 🐍Github Magic Game🐍
 
-![snake gif](https://github.com/RazaKhan9639/RazaKhan9639/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/RazaKhan9639/RazaKhan9639/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
 
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/RazaKhan9639/count.svg" />
 </p>
+
 
