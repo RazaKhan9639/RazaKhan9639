@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razakhan9639&label=Profile%20views&color=0e75b6&style=flat" alt="razakhan9639" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently Working on **MERN Stack**
 
 - 👯 I’m looking to collaborate on [Hacktoberfest](https://hacktoberfest.com/)
 
